@@ -1,2 +1,2 @@
-git
-So cool
+Git is amazing
+
